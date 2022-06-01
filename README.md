@@ -12,6 +12,7 @@ Easy to use:
     }
 
 Try this view in Blazor to experiment:
+
     @page "/"
     <PageTitle>Blazor Timer</PageTitle>
     <p role="status">Current count: @currentCount</p>
